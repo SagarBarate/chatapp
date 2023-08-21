@@ -37,7 +37,7 @@ uploadTask.on(
       await updateProfile(res.user,{
         displayName,
         photoURL: downloadURL
-
+        
     });
     await setDoc(doc(db, "users", res.user.uid), {
       uid: res.user.uid,
@@ -48,8 +48,6 @@ uploadTask.on(
 
    await setDoc(doc(db,"userschat", res.user.uid), {});
       navigate("/")
-
-
     });
   }
 );
