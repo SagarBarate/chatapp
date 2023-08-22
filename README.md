@@ -1,6 +1,9 @@
 #Hosted link for project
 https://reactchatappcatchup.netlify.app
 
+#Use Following credentials to login 
+Email -user8@gmail.com Password -Sagar@123
+
 <h1>Login page</h1>
 <img src="https://github.com/SagarBarate/chatapp/blob/main/src/img/Login.png" alt=""/>
 
