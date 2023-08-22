@@ -1,15 +1,12 @@
 import React from 'react'
 import  Message  from './Message'
+import Mesaage2 from './Mesaage2'
 
 const Messages = () => {
   return (
     <div className='messages'>
         <Message />
-        <Message />
-        <Message />
-        <Message />
-        <Message />
-        <Message />
+        <Mesaage2 />
         <Message />
 
     </div>
