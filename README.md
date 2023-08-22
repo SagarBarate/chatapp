@@ -1,3 +1,15 @@
+#Hosted link for project
+https://reactchatappcatchup.netlify.app
+
+<h1>Login page</h1>
+<img src="https://github.com/SagarBarate/chatapp/blob/main/src/img/Login.png" alt=""/>
+
+<h1>Register Page</h1>
+<img src="https://github.com/SagarBarate/chatapp/blob/main/src/img/Register.png" alt=""/>
+
+<h1>Home Page</h1>
+<img src="https://github.com/SagarBarate/chatapp/blob/main/src/img/Home.png" alt=""/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
