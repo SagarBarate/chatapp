@@ -5,7 +5,7 @@ import More from "../img/more.png";
 import Messages from './Messages';
 import Input from './Input';
 
-export const Chat = () => {
+const Chat = () => {
   return (
     <div className='chat'>
       <div className='chatInfo'>
@@ -21,3 +21,5 @@ export const Chat = () => {
     </div>
   )
 }
+
+export default Chat;
